@@ -1,0 +1,319 @@
+{
+  "pays": "Portugal (Açores)",
+  "drapeau": "🇵🇹",
+  "symbole": "🌋",
+  "titre": "Détente Volcanique aux Açores: Sources Chaudes et Paysages Émeraude",
+  "budget_total": "2300 €/pers (estimation)",
+  "duree": "14 jours",
+  "date_debut": "2026-01-15",
+  "date_fin": "2026-01-29",
+  "temps_vol": "Environ 8h00 (depuis Milan Malpensa, Italie)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Ponta Delgada, São Miguel",
+      "legende": "Après un voyage depuis l'Italie, atterrissez en douceur sur l'île de São Miguel. Prenez le temps de vous installer et de vous imprégner de l'atmosphère de Ponta Delgada, la capitale des Açores.",
+      "lieu": "Ponta Delgada, São Miguel",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Ponta Delgada (PDL) et récupération de la voiture de location.",
+        "<strong>🛏️</strong>: Installation à votre hôtel à Ponta Delgada.",
+        "<strong>🚶‍♂️</strong>: Première balade relaxante dans le centre historique de Ponta Delgada, découverte de l'architecture locale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le trajet depuis Saint Maurice, Italie, inclut un vol depuis Milan Malpensa (MXP). La location de voiture est essentielle pour explorer les Açores."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌸",
+      "titre": "Jardins et Sources Chaudes de Furnas",
+      "legende": "Plongez dans le cœur volcanique de São Miguel avec une journée dédiée à la vallée de Furnas. Entre jardins luxuriants et bains thermaux, la détente est garantie.",
+      "lieu": "Furnas, São Miguel",
+      "activites": [
+        "<strong>🌳</strong>: Visite du Parc Terra Nostra, un jardin botanique exceptionnel avec son bassin thermal.",
+        "<strong>♨️</strong>: Baignade relaxante dans les sources chaudes de Poça da Dona Beija, une expérience unique en pleine nature.",
+        "<strong>🍲</strong>: Dégustation du Cozido das Furnas, un plat traditionnel cuit sous terre par la chaleur volcanique."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "♨️",
+          "titre": "Conseil",
+          "texte": "Les eaux ferrugineuses de Furnas peuvent tacher les maillots de bain clairs. Préférez un maillot de couleur foncée."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Lacs Jumeaux de Sete Cidades et Côte Ouest",
+      "legende": "Explorez l'emblématique caldeira de Sete Cidades, avec ses lacs aux couleurs contrastées, puis longez la côte ouest pour des vues imprenables et des villages pittoresques.",
+      "lieu": "Sete Cidades, São Miguel",
+      "activites": [
+        "<strong>👀</strong>: Admirer la vue panoramique sur les lacs vert et bleu de Sete Cidades depuis le Miradouro da Vista do Rei.",
+        "<strong>🚶‍♀️</strong>: Balade douce autour des lacs de Sete Cidades ou dans le village, pour s'imprégner de la sérénité du lieu.",
+        "<strong>🌊</strong>: Détente aux piscines naturelles de Mosteiros, parfait pour un moment de quiétude au bord de l'océan."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": []
+    },
+    {
+      "jour": 4,
+      "symbole": "☕",
+      "titre": "Plantations de Thé et Cascades de la Côte Nord",
+      "legende": "Découvrez les seules plantations de thé d'Europe, puis laissez-vous charmer par les paysages verdoyants et les cascades rafraîchissantes de la côte nord de São Miguel.",
+      "lieu": "Gorreana, São Miguel",
+      "activites": [
+        "<strong>🍵</strong>: Visite des plantations de thé Gorreana et Chá Porto Formoso, avec dégustation et découverte du processus de fabrication.",
+        "<strong>💦</strong>: Randonnée facile vers la cascade de Salto do Cabrito, un lieu paisible et verdoyant.",
+        "<strong>🏖️</strong>: Moment de détente sur la plage de Santa Bárbara, connue pour son sable noir volcanique."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": []
+    },
+    {
+      "jour": 5,
+      "symbole": "⛰️",
+      "titre": "Lagoa do Fogo et Caldeira Velha",
+      "legende": "Montez vers le majestueux Lagoa do Fogo, un lac de cratère d'une beauté sauvage, avant de vous prélasser dans les eaux chaudes et ferrugineuses de Caldeira Velha.",
+      "lieu": "Lagoa do Fogo, São Miguel",
+      "activites": [
+        "<strong>🏞️</strong>: Contemplation du Lagoa do Fogo depuis ses miradouros, un paysage à couper le souffle classé réserve naturelle.",
+        "<strong>♨️</strong>: Baignade et relaxation dans les bassins thermaux de Caldeira Velha, entourés d'une végétation luxuriante et d'une cascade.",
+        "<strong>🚶‍♂️</strong>: Courte promenade dans la forêt environnante de Caldeira Velha, pour profiter de la nature apaisante."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": []
+    },
+    {
+      "jour": 6,
+      "symbole": "🐬",
+      "titre": "Observation des Cétacés et Détente à Ponta Delgada",
+      "legende": "Partez à la rencontre des géants de l'océan Atlantique lors d'une excursion respectueuse, puis profitez de l'après-midi pour explorer davantage la capitale à votre rythme.",
+      "lieu": "Ponta Delgada, São Miguel",
+      "activites": [
+        "<strong>🐋</strong>: Excursion d'observation des baleines et dauphins (si les conditions météorologiques le permettent), une expérience magique et respectueuse de la faune marine.",
+        "<strong>⛪</strong>: Visite de l'église de São Sebastião et des Portas da Cidade à Ponta Delgada.",
+        "<strong>🛍️</strong>: Flânerie dans les rues commerçantes de Ponta Delgada ou détente dans un café local."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Attention",
+          "texte": "L'observation des cétacés dépend des conditions météorologiques et de la présence des animaux. L'excursion peut être annulée ou reportée."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "✈️",
+      "titre": "Vol vers Terceira et Angra do Heroísmo",
+      "legende": "Quittez São Miguel pour une nouvelle île, Terceira, et découvrez sa capitale historique, Angra do Heroísmo, classée au patrimoine mondial de l'UNESCO.",
+      "lieu": "Angra do Heroísmo, Terceira",
+      "activites": [
+        "<strong>✈️</strong>: Vol court de Ponta Delgada (PDL) à Lajes (TER), Terceira.",
+        "<strong>🛏️</strong>: Installation à l'hôtel à Angra do Heroísmo et récupération de la voiture de location.",
+        "<strong>🚶‍♀️</strong>: Première exploration du centre historique d'Angra do Heroísmo, ses ruelles colorées et ses balcons typiques."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": []
+    },
+    {
+      "jour": 8,
+      "symbole": "🏰",
+      "titre": "Patrimoine et Vues Panoramiques de Terceira",
+      "legende": "Imprégnez-vous de l'histoire d'Angra do Heroísmo et admirez des vues spectaculaires depuis le Monte Brasil, un ancien volcan éteint.",
+      "lieu": "Angra do Heroísmo, Terceira",
+      "activites": [
+        "<strong>🏛️</strong>: Visite du Palácio dos Capitães Generais et du Jardim Duque da Terceira.",
+        "<strong>⛰️</strong>: Montée au Monte Brasil pour une vue imprenable sur Angra do Heroísmo et l'océan.",
+        "<strong>🌅</strong>: Coucher de soleil depuis un miradouro sur la côte, pour un moment de pure contemplation."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": []
+    },
+    {
+      "jour": 9,
+      "symbole": "🌋",
+      "titre": "Grottes Volcaniques et Piscines Naturelles",
+      "legende": "Plongez au cœur de la terre en explorant des grottes volcaniques uniques, puis rafraîchissez-vous dans les piscines naturelles formées par la lave.",
+      "lieu": "Biscoitos, Terceira",
+      "activites": [
+        "<strong>洞</strong>: Visite de l'Algar do Carvão, une cheminée volcanique impressionnante, et de la Gruta do Natal, un tunnel de lave.",
+        "<strong>🏊‍♀️</strong>: Baignade dans les piscines naturelles de Biscoitos, un lieu charmant et protégé des vagues.",
+        "<strong>🍇</strong>: Dégustation de vins locaux dans la région viticole de Biscoitos, connue pour ses vignobles en \\\"currais\\\". "
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": []
+    },
+    {
+      "jour": 10,
+      "symbole": "✈️",
+      "titre": "Retour à São Miguel et Détente",
+      "legende": "Après avoir exploré Terceira, retournez sur l'île de São Miguel pour une journée plus tranquille, propice à la détente ou à la revisite de vos lieux préférés.",
+      "lieu": "Ponta Delgada, São Miguel",
+      "activites": [
+        "<strong>✈️</strong>: Vol court de Lajes (TER) à Ponta Delgada (PDL).",
+        "<strong>🛏️</strong>: Installation dans un nouvel hébergement ou retour au précédent à Ponta Delgada ou ses environs.",
+        "<strong>💆‍♀️</strong>: Après-midi libre pour se reposer, profiter de l'hôtel ou revisiter un site coup de cœur."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": []
+    },
+    {
+      "jour": 11,
+      "symbole": "🌿",
+      "titre": "Randonnée Douce et Paysages de Nordeste",
+      "legende": "Explorez la région sauvage et verdoyante de Nordeste, réputée pour ses jardins fleuris, ses phares et ses sentiers de randonnée accessibles.",
+      "lieu": "Nordeste, São Miguel",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Randonnée facile sur le sentier de Salto do Prego et Salto do Cagarrão, menant à de belles cascades (environ 2-3h, niveau facile).",
+        "<strong>🌸</strong>: Visite des jardins fleuris du Miradouro da Ponta do Sossego et du Miradouro da Ponta da Madrugada.",
+        "<strong>燈</strong>: Découverte du Farol do Arnel, le plus ancien phare des Açores, offrant des vues spectaculaires."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": []
+    },
+    {
+      "jour": 12,
+      "symbole": "🌅",
+      "titre": "Miradouros et Côte Sud",
+      "legende": "Profitez des vues panoramiques le long de la côte sud de São Miguel, découvrez des villages charmants et des plages isolées pour une journée de pure contemplation.",
+      "lieu": "Vila Franca do Campo, São Miguel",
+      "activites": [
+        "<strong>👀</strong>: Exploration des miradouros de la côte sud, comme le Miradouro de Santa Iria ou le Miradouro da Ponta Garça.",
+        "<strong>🏖️</strong>: Détente sur une plage moins fréquentée, comme Praia do Fogo ou Praia da Amora.",
+        "<strong>🏘️</strong>: Visite du village de Vila Franca do Campo, ancienne capitale de l'île, et son îlot volcanique."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": []
+    },
+    {
+      "jour": 13,
+      "symbole": "♨️",
+      "titre": "Sources Chaudes de Ferraria et Derniers Plaisirs",
+      "legende": "Terminez votre séjour en beauté avec une expérience unique de baignade dans l'océan chauffé par une source volcanique, puis profitez d'un dernier dîner açorien.",
+      "lieu": "Ponta da Ferraria, São Miguel",
+      "activites": [
+        "<strong>♨️</strong>: Baignade dans les eaux chaudes de Ponta da Ferraria, une source thermale naturelle qui se jette dans l'océan.",
+        "<strong>🚶‍♂️</strong>: Courte promenade le long de la côte de Ferraria, pour admirer les formations rocheuses volcaniques.",
+        "<strong>🍽️</strong>: Dîner d'adieu dans un restaurant typique de Ponta Delgada, savourant les saveurs locales."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🌊",
+          "titre": "Marée",
+          "texte": "La température de l'eau à Ferraria varie avec la marée. L'eau est plus chaude à marée basse."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🛫",
+      "titre": "Départ des Açores",
+      "legende": "Profitez d'un dernier petit-déjeuner açorien avant de vous diriger vers l'aéroport pour votre vol retour, la tête pleine de souvenirs inoubliables.",
+      "lieu": "Ponta Delgada, São Miguel",
+      "activites": [
+        "<strong>🎁</strong>: Derniers achats de souvenirs locaux si le temps le permet.",
+        "<strong>🚗</strong>: Restitution de la voiture de location à l'aéroport de Ponta Delgada (PDL).",
+        "<strong>🛫</strong>: Départ de Ponta Delgada pour votre vol retour vers l'Italie."
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": []
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 236 €/pers (A/R depuis Milan Malpensa)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Env. 515 €/pers (location voiture 14j + essence + 2 vols inter-îles)",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Env. 560 €/pers (sur base de 40€/jour)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Env. 650 €/pers (sur base de 100€/nuit pour 2 personnes)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Env. 350 €/pers (entrées sites, excursions)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Septembre (températures douces, moins de pluie, idéal pour la randonnée et la baignade)",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "Janvier (plus frais et humide, mais moins de touristes et sources chaudes très appréciables)",
+      "symbole": "🌧️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Les Açores sont un archipel portugais. La monnaie est l'Euro (€).",
+      "symbole": "💶"
+    },
+    {
+      "titre": "La location de voiture est fortement recommandée pour explorer les îles. Permis de conduire français suffisant.",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Le temps peut être changeant, même en une journée. Prévoyez des couches de vêtements et un imperméable.",
+      "symbole": "🌦️"
+    },
+    {
+      "titre": "Les sources chaudes peuvent tacher les maillots de bain clairs (fer). Préférez un maillot foncé.",
+      "symbole": "♨️"
+    },
+    {
+      "titre": "La cuisine açorienne est riche en poissons, fruits de mer et viandes. Ne manquez pas le Cozido das Furnas.",
+      "symbole": "🍽️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/MXP-PDL/2026-01-15/2026-01-29",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Açores",
+      "url": "https://www.visitazores.com/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Location de voiture",
+      "titre": "Compare les offres de location",
+      "url": "https://www.rentalcars.com/",
+      "symbole": "🚗"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Prévisions météo Açores",
+      "url": "https://www.ipma.pt/pt/otempo/prev.localidade.html?localID=26&cidadeID=26",
+      "symbole": "🌤️"
+    }
+  ]
+}
